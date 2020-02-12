@@ -5,7 +5,6 @@
 - [Architectural View](/_pages/architecture-view.md)
 - [Security Model (Permission Sets, Profiles)](/_pages/Security-Model-(Permission-Sets,-Profiles).md)
 - [Sharing & Security](/_pages/Record-Level-Sharing.md)
-- [Software, Architecture, Data, and Visual Design Standards References]
 - [Technical Approach](/_pages/Technical-Approach.md)
 - [Agile Methodology](/_pages/Agile-Methodology.md)
 - [Center of Excellence (COE)](/_pages/Center-of-Excellence.md)
