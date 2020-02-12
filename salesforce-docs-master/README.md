@@ -1,6 +1,6 @@
 #### Standards
 
-- [FAQs](/_pages/FAQs.md)
+- [FAQs](/salesforce-docs-master/_pages/FAQs.md)
 - [T&I Org Structure](/_pages/Org-Chart.md)
 - [Architectural View](/_pages/architecture-view.md)
 - [Security Model (Permission Sets, Profiles)](/_pages/Security-Model-(Permission-Sets,-Profiles).md)
